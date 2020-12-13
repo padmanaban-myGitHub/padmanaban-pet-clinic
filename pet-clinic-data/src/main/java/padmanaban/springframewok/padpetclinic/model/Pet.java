@@ -1,4 +1,4 @@
-package padmanaban.springframework.padpetclinic.model;
+package padmanaban.springframewok.padpetclinic.model;
 
 import org.aspectj.weaver.patterns.PerTypeWithin;
 

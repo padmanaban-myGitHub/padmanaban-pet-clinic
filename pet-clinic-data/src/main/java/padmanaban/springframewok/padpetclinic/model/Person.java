@@ -1,4 +1,4 @@
-package padmanaban.springframework.padpetclinic.model;
+package padmanaban.springframewok.padpetclinic.model;
 
 public class Person {
 
