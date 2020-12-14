@@ -41,7 +41,6 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/padmanaban-myGitHub/padmanaban-pet-clinic.git</developerConnection>
-      <tag>pad-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>
